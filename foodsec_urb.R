@@ -38,3 +38,5 @@ foodsecurb <- ggplot(data=foodsecurb_temp, aes(x=Area, y=Perc, fill=Response)) +
 
 print(foodsecurb)    
 dev.off()
+
+# END
